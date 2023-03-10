@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC4E7171-C7AB-4328-BB41-DE73B2D80159"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55868B9B-807A-4E99-9A8D-9BD36ECAE657"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment2/CheckBox.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CheckBoxStar"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "55868B9B-807A-4E99-9A8D-9BD36ECAE657 - c8790095f993cf7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment2.CheckBoxStar.init(frame: __C.CGRect) -&gt; ios_itmo_2022_assignment2.CheckBoxStar"
+                  moduleName = "ios-itmo-2022-assignment2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/ios-itmo-2022-assignment-2-duvik114/ios-itmo-2022-assignment2/CheckBox.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "55868B9B-807A-4E99-9A8D-9BD36ECAE657 - fbe6bd20dc622b42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment2.CheckBoxStar.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios_itmo_2022_assignment2.CheckBoxStar&gt;"
+                  moduleName = "ios-itmo-2022-assignment2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/ios-itmo-2022-assignment-2-duvik114/ios-itmo-2022-assignment2/CheckBox.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3FDBEC0-A796-4635-B126-3379674CAE6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment2/CheckBox.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CheckBoxStar"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C3FDBEC0-A796-4635-B126-3379674CAE6C - c8790095f993cf9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment2.CheckBoxStar.init(frame: __C.CGRect) -&gt; ios_itmo_2022_assignment2.CheckBoxStar"
+                  moduleName = "ios-itmo-2022-assignment2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/ios-itmo-2022-assignment-2-duvik114/ios-itmo-2022-assignment2/CheckBox.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "C3FDBEC0-A796-4635-B126-3379674CAE6C - fbe6bd20dc622ba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment2.CheckBoxStar.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios_itmo_2022_assignment2.CheckBoxStar&gt;"
+                  moduleName = "ios-itmo-2022-assignment2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/ios-itmo-2022-assignment-2-duvik114/ios-itmo-2022-assignment2/CheckBox.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
